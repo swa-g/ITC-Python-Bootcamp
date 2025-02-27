@@ -1,13 +1,14 @@
 Consider a paragraph as per your choice.
 Eg.
-"He is running on the field
- He is playing with the ball
- She is running on the road
- She is playing with the doll"
+"He is running on the field.
+ He is playing with the ball.
+ She is running on the road.
+ She is playing with the doll."
 
 Write a function that will read this text and printout the following details
 
 1) Number of sentences?
 2) Number of words?
 3) Find the unique words? 
-4) Output a dictionary with all unique words as keys and their frequencies as values.
+4) Output a dictionary with all unique words as keys and their 
+frequencies as values.
