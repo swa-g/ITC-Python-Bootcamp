@@ -1,0 +1,3 @@
+Write a python program to accept the name, roll and marks of 3 subjects, calculate total & average of the marks. 
+If average >= 90 then print "Outstanding", else if average is between 60 and 90 then print "Pass", else print "Fail".
+Check if the passed in all the subjects. If yes then print "Result: PROMOTED" else print "Result: XP".
